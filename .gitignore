@@ -1,0 +1,7 @@
+# Only track the notebooks and README
+/*
+!/.gitignore
+!/README.md
+!/notebooks/
+notebooks/__pycache__/
+notebooks/.ipynb_checkpoints/
